@@ -1,0 +1,12 @@
+image to come
+
+3D TSA "Travel Sentry" master keys
+=========
+Recently, pictures of TSA master baggage keys got leaked by the Washington Post, this is a reproduction attempt.
+
+Security researchers have long warned of the dangers of using [master-keyed locks](http://www.crypto.com/masterkey.html)
+
+> **[!] Important**: This set of keys haven't been tested, at least i tried to be accurate from the pictures of ```@darksim905``` those 3D models are here for key collectors only, not intended to be put on a lock.
+
+### Thanks:
+- Special thanks to [@darksim905](https://twitter.com/darksim905) and [@irongeek_adc](https://twitter.com/irongeek_adc/status/640907196197404672) Those keys was modelled based on their images and quotations.
