@@ -34,8 +34,9 @@ If you print a key and it doesn't work:
 
 LICENSE
 =========
-This project is released under the Creative Commons Attribution-NonCommercial 3.0 Unported License. For the full text of this license, see LICENSE.md
+This project is released under the Creative Commons Attribution-NonCommercial 3.0 Unported License.
 
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Cc-by-nc_icon.svg)
 
 You are free to:
 
@@ -51,4 +52,6 @@ No additional restrictions — You may not apply legal terms or technological me
 Notices:
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-No warranties are given. The license may not 
+No warranties are given.
+
+For the full text of this license, see [LICENSE.md](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys/blob/master/LICENSE.md).
