@@ -22,13 +22,13 @@ PROBLEM REPORTING
 
 If you print a key and it doesn't work:
 	
-	* First, use a caliper or other highly-accurate device to make sure the key you printed is accurate to the model. Humidity, expansion & ambient room temperature can have serious effects on print size accuracy.
+* First, use a caliper or other highly-accurate device to make sure the key you printed is accurate to the model. Humidity, expansion & ambient room temperature can have serious effects on print size accuracy.
 
-	* If it IS accurate, open an issue on the github, specify the problem file, and what problems exist (i.e. "Too wide for the keyway," "Too tall for the keyway," etc.).
+* If it IS accurate, open an issue on the github, specify the problem file, and what problems exist (i.e. "Too wide for the keyway," "Too tall for the keyway," etc.).
 
-	* Upload a picture of your lock's keyway. 
+* Upload a picture of your lock's keyway. 
 
-	* If you have the original keys for the lock, provide a measurement of the key from shoulder to tip, total height of the shoulders, and width. (i.e. X, Y & Z axes of the blade). Some keys only have one shoulder. 
+* If you have the original keys for the lock, provide a measurement of the key from shoulder to tip, total height of the shoulders, and width. (i.e. X, Y & Z axes of the blade). Some keys only have one shoulder. 
 
 
 
@@ -40,18 +40,21 @@ This project is released under the Creative Commons Attribution-NonCommercial 3.
 
 You are free to:
 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material
+* The licensor cannot revoke these freedoms as long as you follow the license terms.
+
 Under the following terms:
 
-[!]Attribution — You must give appropriate credit to all contributors to this project, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* [!]Attribution — You must give appropriate credit to all contributors to this project, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-[!]NonCommercial — You may not use the material for commercial purposes.
+* [!]NonCommercial — You may not use the material for commercial purposes.
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
 Notices:
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
 No warranties are given.
 
 For the full text of this license, see [LICENSE.md](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys/blob/master/LICENSE.md).
