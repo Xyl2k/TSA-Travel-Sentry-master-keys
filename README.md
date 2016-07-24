@@ -16,6 +16,10 @@ The TSA has issued an official statement making it known that [they don't even c
 - Special thanks to [@darksim905](https://twitter.com/darksim905) and [@irongeek_adc](https://twitter.com/irongeek_adc/status/640907196197404672) and some anonymous others who all sent us images and information surrounding these keys. Also, [@j0hnnyXm4s](https://twitter.com/J0hnnyXm4s) for his key size ratios and issue management / advice.
 
 
+3D TSA "Safe Skies" master key
+=========
+Safe Skies manufactures TSA-approved locks under their own standard, competing with Travel Sentry, and has even sued Travel Sentry for patent infringement. They have a much smaller market share than Travel Sentry. These locks can be identified by noting the words "Safe Skies" next to the keyway, in a similar location as the Travel Sentry "TSA00N" notations. All available information indicates only one override/master key exists for their entire system. Armed with this knowledge and a large hammer (no, really), [@darksim905](https://twitter.com/darksim905) and [Nite0wl](https://twitter.com/nite0wl_2600) reverse-engineered the master key bitting, and created 3D files suitable for printing. They presented their findings along with [@j0hnnyXm4s](https://twitter.com/J0hnnyXm4s) at the 11th Hackers of Planet Earth conference in New York City, in July of 2016.
+
 
 PROBLEM REPORTING
 =========
